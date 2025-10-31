@@ -85,5 +85,3 @@ This is a simple multiplayer demo where players can:
 *PROJEKT SANS STUDIOS - Basic Multiplayer Demo*
 
 ---
-
-Would you like me to make it look cleaner in GitHub’s Markdown style (with collapsible sections or image grids)? I can format it that way too.
